@@ -21,7 +21,7 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
 **Alguns projetos**
 
 <p>
-  <a href="https://github.com/Juansimao/Ender-ecommerce"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Ender-ecommerce&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/Juansimao/Seguidor-de-linha-e-obstaculo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Seguidor-de-linha-e-obstaculo&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/Juansimao/Sistema-Automatizado-de-Registros-de-Manutencao"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Sistema-Automatizado-de-Registros-de-Manutencao&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
 </p>
 <p>
@@ -33,9 +33,10 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
 
 **Atividade**
 
-<p>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Juansimao&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=510&card_height=170" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
+<img src="./commits.svg" width="100%" />
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=90&section=footer" width="100%"/>
