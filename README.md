@@ -38,6 +38,4 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juansimao&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="100%" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=90&section=footer" width="100%"/>
