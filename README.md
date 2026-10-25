@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=160&section=header&text=Juan%20Sim%C3%A3o&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Front-end+em+e-commerce;Shopify%2C+React+e+Next.js;Automatizando+o+que+d%C3%A1" />
+</p>
 
 ## Oi, sou o Juan
 
@@ -16,12 +20,24 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
 
 **Alguns projetos**
 
-<a href="https://github.com/Juansimao/Ender-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Ender-ecommerce&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Juansimao/Sistema-Automatizado-de-Registros-de-Manutencao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Sistema-Automatizado-de-Registros-de-Manutencao&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Juansimao/PaginaCriptomoeda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=PaginaCriptomoeda&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Juansimao/Automacao-Excel-Gmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Automacao-Excel-Gmail&theme=tokyonight&hide_border=true" /></a>
+<p>
+  <a href="https://github.com/Juansimao/Ender-ecommerce"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Ender-ecommerce&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/Juansimao/Sistema-Automatizado-de-Registros-de-Manutencao"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Sistema-Automatizado-de-Registros-de-Manutencao&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+</p>
+<p>
+  <a href="https://github.com/Juansimao/PaginaCriptomoeda"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=PaginaCriptomoeda&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/Juansimao/Automacao-Excel-Gmail"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juansimao&repo=Automacao-Excel-Gmail&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+</p>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juansimao&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+**Atividade**
+
+<p>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Juansimao&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=510&card_height=170" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juansimao&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=90&section=footer" width="100%"/>
