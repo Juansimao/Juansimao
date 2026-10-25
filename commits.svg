@@ -4,109 +4,79 @@
 .s{fill:#a9b1d6;font-size:14px}
 .k{fill:#a9b1d6;font-size:13px}
 .kv{fill:#c0caf5;font-size:13px;font-weight:700}
-.m{fill:#565f89;font-size:11px}
+.m{fill:#565f89;font-size:12px}
 .y{fill:#787c99;font-size:11px;font-weight:600}
-.v{fill:#a9b1d6;font-size:10px;font-weight:600;opacity:0;animation:fade .4s ease forwards}
+.v{fill:#a9b1d6;font-size:12px;font-weight:600;opacity:0;animation:fade .4s ease forwards}
 .b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .9s cubic-bezier(.2,.8,.2,1) forwards}
 .h{opacity:0;animation:fade .6s ease forwards}
 @keyframes grow{to{transform:scaleY(1)}}
 @keyframes fade{to{opacity:1}}
 </style>
 <rect width="840" height="346" rx="10" fill="#1a1b27"/>
-<g class="h"><text x="32" y="56" class="t">671 commits</text>
-<text x="32" y="82" class="s">em 28 repositórios · mar/2025 – out/2026</text>
+<g class="h"><text x="32" y="56" class="t">650 commits</text>
+<text x="32" y="82" class="s">em 25 repositórios · dez/2025 – out/2026</text>
 <rect x="578" y="44" width="10" height="10" rx="2" fill="#bb9af7"/><text x="594" y="54" class="k">privados <tspan class="kv">621</tspan></text>
-<rect x="708" y="44" width="10" height="10" rx="2" fill="#7aa2f7"/><text x="724" y="54" class="k">públicos <tspan class="kv">50</tspan></text></g>
+<rect x="708" y="44" width="10" height="10" rx="2" fill="#7aa2f7"/><text x="724" y="54" class="k">públicos <tspan class="kv">29</tspan></text></g>
 <line x1="32" y1="290.5" x2="808" y2="290.5" stroke="#24283b"/>
 <g class="b" style="animation-delay:0.30s">
-<rect x="40.4" y="278.0" width="22" height="12.0" rx="3" fill="#7aa2f7"/>
+<rect x="49.3" y="276.9" width="36" height="1.1" rx="3" fill="#bb9af7"/>
+<rect x="49.3" y="278.0" width="36" height="12.0" rx="3" fill="#7aa2f7"/>
 </g>
-<text x="51.4" y="272.0" text-anchor="middle" class="v" style="animation-delay:1.00s">11</text>
-<text x="51.4" y="308" text-anchor="middle" class="m">mar</text>
-<text x="51.4" y="326" text-anchor="middle" class="y">2025</text>
-<g class="b" style="animation-delay:0.36s">
-<rect x="79.2" y="284.6" width="22" height="5.4" rx="3" fill="#7aa2f7"/>
+<text x="67.3" y="270.9" text-anchor="middle" class="v" style="animation-delay:1.00s">12</text>
+<text x="67.3" y="308" text-anchor="middle" class="m">dez</text>
+<text x="67.3" y="326" text-anchor="middle" class="y">2025</text>
+<g class="b" style="animation-delay:0.38s">
+<rect x="119.8" y="269.3" width="36" height="7.6" rx="3" fill="#bb9af7"/>
+<rect x="119.8" y="276.9" width="36" height="13.1" rx="3" fill="#7aa2f7"/>
 </g>
-<text x="90.2" y="278.6" text-anchor="middle" class="v" style="animation-delay:1.06s">5</text>
-<text x="90.2" y="308" text-anchor="middle" class="m">abr</text>
-<rect x="118.0" y="288" width="22" height="2" rx="1" fill="#24283b"/>
-<text x="129.0" y="308" text-anchor="middle" class="m">mai</text>
-<g class="b" style="animation-delay:0.48s">
-<rect x="156.8" y="287.0" width="22" height="3.0" rx="3" fill="#7aa2f7"/>
+<text x="137.8" y="263.3" text-anchor="middle" class="v" style="animation-delay:1.08s">19</text>
+<text x="137.8" y="308" text-anchor="middle" class="m">jan</text>
+<text x="137.8" y="326" text-anchor="middle" class="y">2026</text>
+<g class="b" style="animation-delay:0.46s">
+<rect x="190.4" y="286.7" width="36" height="3.3" rx="3" fill="#bb9af7"/>
 </g>
-<text x="167.8" y="281.0" text-anchor="middle" class="v" style="animation-delay:1.18s">2</text>
-<text x="167.8" y="308" text-anchor="middle" class="m">jun</text>
+<text x="208.4" y="280.7" text-anchor="middle" class="v" style="animation-delay:1.16s">3</text>
+<text x="208.4" y="308" text-anchor="middle" class="m">fev</text>
 <g class="b" style="animation-delay:0.54s">
-<rect x="195.6" y="284.6" width="22" height="5.4" rx="3" fill="#7aa2f7"/>
+<rect x="260.9" y="270.4" width="36" height="19.6" rx="3" fill="#bb9af7"/>
 </g>
-<text x="206.6" y="278.6" text-anchor="middle" class="v" style="animation-delay:1.24s">5</text>
-<text x="206.6" y="308" text-anchor="middle" class="m">jul</text>
-<rect x="234.4" y="288" width="22" height="2" rx="1" fill="#24283b"/>
-<text x="245.4" y="308" text-anchor="middle" class="m">ago</text>
-<rect x="273.2" y="288" width="22" height="2" rx="1" fill="#24283b"/>
-<text x="284.2" y="308" text-anchor="middle" class="m">set</text>
-<rect x="312.0" y="288" width="22" height="2" rx="1" fill="#24283b"/>
-<text x="323.0" y="308" text-anchor="middle" class="m">out</text>
-<rect x="350.8" y="288" width="22" height="2" rx="1" fill="#24283b"/>
-<text x="361.8" y="308" text-anchor="middle" class="m">nov</text>
-<g class="b" style="animation-delay:0.84s">
-<rect x="389.6" y="276.9" width="22" height="1.1" rx="3" fill="#bb9af7"/>
-<rect x="389.6" y="278.0" width="22" height="12.0" rx="3" fill="#7aa2f7"/>
+<text x="278.9" y="264.4" text-anchor="middle" class="v" style="animation-delay:1.24s">18</text>
+<text x="278.9" y="308" text-anchor="middle" class="m">mar</text>
+<g class="b" style="animation-delay:0.62s">
+<rect x="331.5" y="130.0" width="36" height="160.0" rx="3" fill="#bb9af7"/>
 </g>
-<text x="400.6" y="270.9" text-anchor="middle" class="v" style="animation-delay:1.54s">12</text>
-<text x="400.6" y="308" text-anchor="middle" class="m">dez</text>
-<g class="b" style="animation-delay:0.90s">
-<rect x="428.4" y="269.3" width="22" height="7.6" rx="3" fill="#bb9af7"/>
-<rect x="428.4" y="276.9" width="22" height="13.1" rx="3" fill="#7aa2f7"/>
+<text x="349.5" y="124.0" text-anchor="middle" class="v" style="animation-delay:1.32s">147</text>
+<text x="349.5" y="308" text-anchor="middle" class="m">abr</text>
+<g class="b" style="animation-delay:0.70s">
+<rect x="402.0" y="179.0" width="36" height="111.0" rx="3" fill="#bb9af7"/>
 </g>
-<text x="439.4" y="263.3" text-anchor="middle" class="v" style="animation-delay:1.60s">19</text>
-<text x="439.4" y="308" text-anchor="middle" class="m">jan</text>
-<text x="439.4" y="326" text-anchor="middle" class="y">2026</text>
-<g class="b" style="animation-delay:0.96s">
-<rect x="467.2" y="286.7" width="22" height="3.3" rx="3" fill="#bb9af7"/>
+<text x="420.0" y="173.0" text-anchor="middle" class="v" style="animation-delay:1.40s">102</text>
+<text x="420.0" y="308" text-anchor="middle" class="m">mai</text>
+<g class="b" style="animation-delay:0.78s">
+<rect x="472.5" y="214.9" width="36" height="74.0" rx="3" fill="#bb9af7"/>
+<rect x="472.5" y="288.9" width="36" height="1.1" rx="3" fill="#7aa2f7"/>
 </g>
-<text x="478.2" y="280.7" text-anchor="middle" class="v" style="animation-delay:1.66s">3</text>
-<text x="478.2" y="308" text-anchor="middle" class="m">fev</text>
+<text x="490.5" y="208.9" text-anchor="middle" class="v" style="animation-delay:1.48s">69</text>
+<text x="490.5" y="308" text-anchor="middle" class="m">jun</text>
+<g class="b" style="animation-delay:0.86s">
+<rect x="543.1" y="206.2" width="36" height="83.8" rx="3" fill="#bb9af7"/>
+</g>
+<text x="561.1" y="200.2" text-anchor="middle" class="v" style="animation-delay:1.56s">77</text>
+<text x="561.1" y="308" text-anchor="middle" class="m">jul</text>
+<g class="b" style="animation-delay:0.94s">
+<rect x="613.6" y="164.8" width="36" height="125.2" rx="3" fill="#bb9af7"/>
+</g>
+<text x="631.6" y="158.8" text-anchor="middle" class="v" style="animation-delay:1.64s">115</text>
+<text x="631.6" y="308" text-anchor="middle" class="m">ago</text>
 <g class="b" style="animation-delay:1.02s">
-<rect x="506.0" y="270.4" width="22" height="19.6" rx="3" fill="#bb9af7"/>
+<rect x="684.2" y="255.2" width="36" height="34.8" rx="3" fill="#bb9af7"/>
 </g>
-<text x="517.0" y="264.4" text-anchor="middle" class="v" style="animation-delay:1.72s">18</text>
-<text x="517.0" y="308" text-anchor="middle" class="m">mar</text>
-<g class="b" style="animation-delay:1.08s">
-<rect x="544.8" y="130.0" width="22" height="160.0" rx="3" fill="#bb9af7"/>
+<text x="702.2" y="249.2" text-anchor="middle" class="v" style="animation-delay:1.72s">32</text>
+<text x="702.2" y="308" text-anchor="middle" class="m">set</text>
+<g class="b" style="animation-delay:1.10s">
+<rect x="754.7" y="229.0" width="36" height="55.5" rx="3" fill="#bb9af7"/>
+<rect x="754.7" y="284.6" width="36" height="5.4" rx="3" fill="#7aa2f7"/>
 </g>
-<text x="555.8" y="124.0" text-anchor="middle" class="v" style="animation-delay:1.78s">147</text>
-<text x="555.8" y="308" text-anchor="middle" class="m">abr</text>
-<g class="b" style="animation-delay:1.14s">
-<rect x="583.6" y="179.0" width="22" height="111.0" rx="3" fill="#bb9af7"/>
-</g>
-<text x="594.6" y="173.0" text-anchor="middle" class="v" style="animation-delay:1.84s">102</text>
-<text x="594.6" y="308" text-anchor="middle" class="m">mai</text>
-<g class="b" style="animation-delay:1.20s">
-<rect x="622.4" y="214.9" width="22" height="74.0" rx="3" fill="#bb9af7"/>
-<rect x="622.4" y="288.9" width="22" height="1.1" rx="3" fill="#7aa2f7"/>
-</g>
-<text x="633.4" y="208.9" text-anchor="middle" class="v" style="animation-delay:1.90s">69</text>
-<text x="633.4" y="308" text-anchor="middle" class="m">jun</text>
-<g class="b" style="animation-delay:1.26s">
-<rect x="661.2" y="206.2" width="22" height="83.8" rx="3" fill="#bb9af7"/>
-</g>
-<text x="672.2" y="200.2" text-anchor="middle" class="v" style="animation-delay:1.96s">77</text>
-<text x="672.2" y="308" text-anchor="middle" class="m">jul</text>
-<g class="b" style="animation-delay:1.32s">
-<rect x="700.0" y="164.8" width="22" height="125.2" rx="3" fill="#bb9af7"/>
-</g>
-<text x="711.0" y="158.8" text-anchor="middle" class="v" style="animation-delay:2.02s">115</text>
-<text x="711.0" y="308" text-anchor="middle" class="m">ago</text>
-<g class="b" style="animation-delay:1.38s">
-<rect x="738.8" y="255.2" width="22" height="34.8" rx="3" fill="#bb9af7"/>
-</g>
-<text x="749.8" y="249.2" text-anchor="middle" class="v" style="animation-delay:2.08s">32</text>
-<text x="749.8" y="308" text-anchor="middle" class="m">set</text>
-<g class="b" style="animation-delay:1.44s">
-<rect x="777.6" y="231.2" width="22" height="55.5" rx="3" fill="#bb9af7"/>
-<rect x="777.6" y="286.7" width="22" height="3.3" rx="3" fill="#7aa2f7"/>
-</g>
-<text x="788.6" y="225.2" text-anchor="middle" class="v" style="animation-delay:2.14s">54</text>
-<text x="788.6" y="308" text-anchor="middle" class="m">out</text>
+<text x="772.7" y="223.0" text-anchor="middle" class="v" style="animation-delay:1.80s">56</text>
+<text x="772.7" y="308" text-anchor="middle" class="m">out</text>
 </svg>
