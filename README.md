@@ -33,7 +33,7 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
 
 **Atividade**
 
-<img src="./commits.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Juansimao/Juansimao/54d5c0240dc3f56ceff89b2a38ed97aa62a8d74a/commits.svg" width="100%" />
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
