@@ -35,8 +35,6 @@ Já fiz um pouco de tudo por aqui: site institucional, página de cripto, robô 
 
 <img src="https://raw.githubusercontent.com/Juansimao/Juansimao/54d5c0240dc3f56ceff89b2a38ed97aa62a8d74a/commits.svg" width="100%" />
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansimao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=495&locale=pt-br" />
-</p>
+<img src="https://raw.githubusercontent.com/Juansimao/Juansimao/04fd62b5aac7fe3de1408d4f918102237efba600/langs.svg" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=90&section=footer" width="100%"/>
